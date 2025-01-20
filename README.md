@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nico1004
 - 👀 I’m interested in everything related to embedded systems and computer architecture
-- 🌱 I’m currently studying Computer Engineering (B.Eng) at the HTW Berlin
+- 🌱 I’m currently studying Computer Engineering (M.Eng) at the HTW Berlin
 - 💞️ I’m looking to collaborate on embedded software projects
 - 📫 How to reach me: mail: nico.roeder@live.de
 
